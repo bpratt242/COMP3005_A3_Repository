@@ -6,13 +6,13 @@ Brianna Pratt
 101254262
 
 ## Source Files
+README.md 
 database/  
     students.sql  
 src/  
     PostgreSQLJDBCConnection.java  
     postgresql-42.7.8.jar   
-README.md  
-
+ 
 Functions used in PostgreSQLJDBCConnection.java:  
 getAllStudents();  
 addStudent(String first_name, String last_name, String email, String enrollment_date);  
