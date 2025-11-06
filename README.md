@@ -26,7 +26,7 @@ https://youtu.be/b17knSw0b2E
 ## Launching and Installiation Instructions
 
 Creating Database:  
-    Copy and paste code from database/students.sql file  
+    Copy and paste code from database/students.sql file into Query Tool on PostgreSQL   
 
 Compile and Execute:  
 javac PostgreSQLJDBCConnection.java    
