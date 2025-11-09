@@ -30,7 +30,7 @@ Creating Database:
 
 Compile and Execute:  
 javac PostgreSQLJDBCConnection.java    
-java -cp .:postgresql-42.7.8.jar PostgreSQLJDBCConnection  
+java -cp .:postgresql-42.7.8.jar PostgreSQLJDBCConnection  <-- connects Java to the PostgreSQL driver and runs the program      
 
 
 
